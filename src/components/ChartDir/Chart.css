@@ -1,0 +1,8 @@
+.chart-container {
+    display: flex;
+    justify-content: space-around;
+    background-color: #f8dfff;
+    border-radius: 0.8rem;
+    padding: 1rem;
+    height: 10rem;
+}

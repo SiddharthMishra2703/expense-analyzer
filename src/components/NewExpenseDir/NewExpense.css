@@ -1,0 +1,20 @@
+.new-expense {
+    width: 50rem;
+    max-width: 95%;
+    margin: auto;
+    margin-top: 2rem;
+    padding: 1rem;
+    border-radius: 0.6rem;
+    background-color: #a892ee;
+    text-align: center;
+
+    & button {
+        background-color: #40005d;
+        color: white;
+        padding: 1rem 2rem;
+        border-radius: 0.8rem;
+        border: 1px solid #40005d;
+        font: inherit;
+        margin-right: 1rem;
+    }
+}

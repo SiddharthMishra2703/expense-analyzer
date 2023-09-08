@@ -1,0 +1,10 @@
+.expense-list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.no-element {
+    color: white;
+    text-align: center;
+}
